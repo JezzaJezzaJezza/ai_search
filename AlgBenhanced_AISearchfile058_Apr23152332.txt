@@ -1,0 +1,7 @@
+USER = hrwv51 (Jeremy Mariani),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile058.txt,
+SIZE = 58, TOUR LENGTH = 25395,
+57,43,48,9,22,18,7,41,39,4,5,26,47,40,28,52,2,20,31,27,56,44,30,1,37,17,50,35,45,10,53,55,54,46,51,14,0,33,13,3,42,49,36,11,16,23,32,34,21,19,12,8,25,15,38,24,6,29,
+NOTE = The parameter values are 'max_it' = 400 and 'pop_size' = 1000.
+RUN-TIME = 20.2 seconds.
+CERTIFICATE = 1691.

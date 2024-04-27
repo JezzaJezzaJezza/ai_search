@@ -1,0 +1,7 @@
+USER = hrwv51 (Jeremy Mariani),
+ALGORITHM CODE = PS, NAME OF CITY-FILE = AISearchfile021.txt,
+SIZE = 21, TOUR LENGTH = 3573,
+13,9,11,7,10,4,20,1,6,0,8,15,5,17,18,16,12,2,19,14,3,
+NOTE = The parameter values are 'max_it' = 400 and 'num_parts' = 1000.
+RUN-TIME = 21.9 seconds.
+CERTIFICATE = 882.
